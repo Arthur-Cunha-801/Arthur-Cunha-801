@@ -14,7 +14,7 @@
 
 ## GitHub Stats
 
-[![Arthur-Cunha-801](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Cunha-801&theme=dark&layout=compact )](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Cunha-801&layout=compact&theme=dark)](https://github.com/Arthur-Cunha-801)
 
 ## Onde me encontrar
 
