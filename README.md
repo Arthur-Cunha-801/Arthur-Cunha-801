@@ -14,8 +14,7 @@
 
 ## GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Cunha-801&layout=compact&theme=dark)](https://github.com/Arthur-Cunha-801)
-
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Arthur-Cunha-801&layout=compact&theme=dark)](https://github.com/Arthur-Cunha-801)
 ## Onde me encontrar
 
 [![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:turiuscunha@gmail.com)](mailto:turiusunha@gmail.com)
