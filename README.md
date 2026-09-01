@@ -17,6 +17,6 @@
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Arthur-Cunha-801&layout=compact&theme=dark)](https://github.com/Arthur-Cunha-801)
 ## Onde me encontrar
 
-[![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:turiuscunha@gmail.com)](mailto:turiusunha@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:turiuscunha@gmail.com)](mailto:turiuscunha@gmail.com)
 
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=Git&style=social)](https://github.com/Arthur-Cunha-801)
