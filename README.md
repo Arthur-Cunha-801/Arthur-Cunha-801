@@ -4,7 +4,7 @@
 - 🎓 Formado em TEC. Análise e Desenvolvimento de Sistemas na ETEC
 - 💼 Trabalhando como Suporte T.I na WorkOn.
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🌱 Aprendendo sobre Backend
+- 🌱 Cursando Power BI Desktop - Alura
 
 ## Skills
 
